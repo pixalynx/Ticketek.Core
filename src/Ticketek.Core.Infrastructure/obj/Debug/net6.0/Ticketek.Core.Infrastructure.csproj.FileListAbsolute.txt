@@ -1,0 +1,17 @@
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/bin/Debug/net6.0/Ticketek.Core.Infrastructure.deps.json
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/bin/Debug/net6.0/Ticketek.Core.Infrastructure.dll
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/bin/Debug/net6.0/Ticketek.Core.Infrastructure.pdb
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/bin/Debug/net6.0/Ticketek.Core.Application.dll
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/bin/Debug/net6.0/Ticketek.Core.Domain.dll
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/bin/Debug/net6.0/Ticketek.Core.Application.pdb
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/bin/Debug/net6.0/Ticketek.Core.Domain.pdb
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/obj/Debug/net6.0/Ticketek.Core.Infrastructure.csproj.AssemblyReference.cache
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/obj/Debug/net6.0/Ticketek.Core.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/obj/Debug/net6.0/Ticketek.Core.Infrastructure.AssemblyInfoInputs.cache
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/obj/Debug/net6.0/Ticketek.Core.Infrastructure.AssemblyInfo.cs
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/obj/Debug/net6.0/Ticketek.Core.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/obj/Debug/net6.0/Ticketek.Core.Infrastructure.csproj.CopyComplete
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/obj/Debug/net6.0/Ticketek.Core.Infrastructure.dll
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/obj/Debug/net6.0/refint/Ticketek.Core.Infrastructure.dll
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/obj/Debug/net6.0/Ticketek.Core.Infrastructure.pdb
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Infrastructure/obj/Debug/net6.0/ref/Ticketek.Core.Infrastructure.dll

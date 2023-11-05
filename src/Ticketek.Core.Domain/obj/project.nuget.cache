@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s0dWY2zfe5L5Z2XiGqsexiMxVjuuEttHotfV6xZjjiJkiDPAT6dW7n+B580/HFHNnaATYOtSxCgSkmlVs0KJVA==",
+  "success": true,
+  "projectFilePath": "/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/Ticketek.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/pixalynx/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/pixalynx/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

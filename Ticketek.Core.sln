@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{43EFAD12-E2DA-4A1A-9EFE-528FE631B99B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketek.Core.Domain", "src\Ticketek.Core.Domain\Ticketek.Core.Domain.csproj", "{E5194677-637B-4E61-BDC2-1FEC9318F80D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketek.Core.Api", "src\Ticketek.Core.Api\Ticketek.Core.Api.csproj", "{0A0B73E4-0D67-403E-BAC4-19949591DBD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketek.Core.Infrastructure", "src\Ticketek.Core.Infrastructure\Ticketek.Core.Infrastructure.csproj", "{017A923C-D7A0-45BC-B980-1589B1A343D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketek.Core.Application", "src\Ticketek.Core.Application\Ticketek.Core.Application.csproj", "{200DB0DC-D28C-4B16-8A30-84ECD32252F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{8B0468F6-D8BC-43BF-B1E5-793500E94CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketek.Core.ArchitectureTests", "tests\Ticketek.Core.ArchitectureTests\Ticketek.Core.ArchitectureTests.csproj", "{51E93647-28C4-46CE-AD4F-C67762082D51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{DF4A992E-90CB-40D7-95A7-0FCDF1AD8B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketek.Core.Api.UnitTests", "tests\UnitTests\Ticketek.Core.Api.UnitTests\Ticketek.Core.Api.UnitTests.csproj", "{A1D07F1E-0CCC-4251-AD4D-15410C7CE3CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketek.Core.Domain.UnitTests", "tests\UnitTests\Ticketek.Core.Domain.UnitTests\Ticketek.Core.Domain.UnitTests.csproj", "{05E079F7-5BD9-48EA-8615-A64F3C4F661E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketek.Core.Application.UnitTests", "tests\UnitTests\Ticketek.Core.Application.UnitTests\Ticketek.Core.Application.UnitTests.csproj", "{40C870D3-9FE6-43F8-8BA6-5B4F4D41A019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketek.Core.Infrastructure.UnitTests", "tests\UnitTests\Ticketek.Core.Infrastructure.UnitTests\Ticketek.Core.Infrastructure.UnitTests.csproj", "{C964F4E4-D92E-47B9-B030-EA094D355654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5194677-637B-4E61-BDC2-1FEC9318F80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5194677-637B-4E61-BDC2-1FEC9318F80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5194677-637B-4E61-BDC2-1FEC9318F80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5194677-637B-4E61-BDC2-1FEC9318F80D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0B73E4-0D67-403E-BAC4-19949591DBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0B73E4-0D67-403E-BAC4-19949591DBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0B73E4-0D67-403E-BAC4-19949591DBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0B73E4-0D67-403E-BAC4-19949591DBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017A923C-D7A0-45BC-B980-1589B1A343D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017A923C-D7A0-45BC-B980-1589B1A343D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017A923C-D7A0-45BC-B980-1589B1A343D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017A923C-D7A0-45BC-B980-1589B1A343D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200DB0DC-D28C-4B16-8A30-84ECD32252F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200DB0DC-D28C-4B16-8A30-84ECD32252F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200DB0DC-D28C-4B16-8A30-84ECD32252F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200DB0DC-D28C-4B16-8A30-84ECD32252F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E93647-28C4-46CE-AD4F-C67762082D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E93647-28C4-46CE-AD4F-C67762082D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E93647-28C4-46CE-AD4F-C67762082D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E93647-28C4-46CE-AD4F-C67762082D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D07F1E-0CCC-4251-AD4D-15410C7CE3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D07F1E-0CCC-4251-AD4D-15410C7CE3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D07F1E-0CCC-4251-AD4D-15410C7CE3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D07F1E-0CCC-4251-AD4D-15410C7CE3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E079F7-5BD9-48EA-8615-A64F3C4F661E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E079F7-5BD9-48EA-8615-A64F3C4F661E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E079F7-5BD9-48EA-8615-A64F3C4F661E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E079F7-5BD9-48EA-8615-A64F3C4F661E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C870D3-9FE6-43F8-8BA6-5B4F4D41A019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C870D3-9FE6-43F8-8BA6-5B4F4D41A019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C870D3-9FE6-43F8-8BA6-5B4F4D41A019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C870D3-9FE6-43F8-8BA6-5B4F4D41A019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C964F4E4-D92E-47B9-B030-EA094D355654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C964F4E4-D92E-47B9-B030-EA094D355654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C964F4E4-D92E-47B9-B030-EA094D355654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C964F4E4-D92E-47B9-B030-EA094D355654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E5194677-637B-4E61-BDC2-1FEC9318F80D} = {43EFAD12-E2DA-4A1A-9EFE-528FE631B99B}
+		{0A0B73E4-0D67-403E-BAC4-19949591DBD5} = {43EFAD12-E2DA-4A1A-9EFE-528FE631B99B}
+		{017A923C-D7A0-45BC-B980-1589B1A343D4} = {43EFAD12-E2DA-4A1A-9EFE-528FE631B99B}
+		{200DB0DC-D28C-4B16-8A30-84ECD32252F6} = {43EFAD12-E2DA-4A1A-9EFE-528FE631B99B}
+		{51E93647-28C4-46CE-AD4F-C67762082D51} = {8B0468F6-D8BC-43BF-B1E5-793500E94CBD}
+		{DF4A992E-90CB-40D7-95A7-0FCDF1AD8B6C} = {8B0468F6-D8BC-43BF-B1E5-793500E94CBD}
+		{A1D07F1E-0CCC-4251-AD4D-15410C7CE3CD} = {DF4A992E-90CB-40D7-95A7-0FCDF1AD8B6C}
+		{05E079F7-5BD9-48EA-8615-A64F3C4F661E} = {DF4A992E-90CB-40D7-95A7-0FCDF1AD8B6C}
+		{40C870D3-9FE6-43F8-8BA6-5B4F4D41A019} = {DF4A992E-90CB-40D7-95A7-0FCDF1AD8B6C}
+		{C964F4E4-D92E-47B9-B030-EA094D355654} = {DF4A992E-90CB-40D7-95A7-0FCDF1AD8B6C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pGK14fzmyFjU0YHHpfIkYSqiYF535qXV3ATGiMTs8S0=",
+  "Source": "Ticketek.Core.Api",
+  "BasePath": "_content/Ticketek.Core.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Ticketek.Core.Api.props" />
+</Project>

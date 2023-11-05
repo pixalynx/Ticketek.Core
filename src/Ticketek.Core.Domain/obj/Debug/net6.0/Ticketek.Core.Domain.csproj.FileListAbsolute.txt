@@ -1,0 +1,12 @@
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/bin/Debug/net6.0/Ticketek.Core.Domain.deps.json
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/bin/Debug/net6.0/Ticketek.Core.Domain.dll
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/bin/Debug/net6.0/Ticketek.Core.Domain.pdb
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/obj/Debug/net6.0/Ticketek.Core.Domain.csproj.AssemblyReference.cache
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/obj/Debug/net6.0/Ticketek.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/obj/Debug/net6.0/Ticketek.Core.Domain.AssemblyInfoInputs.cache
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/obj/Debug/net6.0/Ticketek.Core.Domain.AssemblyInfo.cs
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/obj/Debug/net6.0/Ticketek.Core.Domain.csproj.CoreCompileInputs.cache
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/obj/Debug/net6.0/Ticketek.Core.Domain.dll
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/obj/Debug/net6.0/refint/Ticketek.Core.Domain.dll
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/obj/Debug/net6.0/Ticketek.Core.Domain.pdb
+/Users/pixalynx/Desktop/DEV/TechTests/Ticketek.Core/src/Ticketek.Core.Domain/obj/Debug/net6.0/ref/Ticketek.Core.Domain.dll
